@@ -1,0 +1,15 @@
+a:link {
+  color: blue;			/* unvisited */
+}
+
+a:visited {
+  color: blue;			/* visited */
+}
+
+a:hover {
+  text-decoration: none;	/* mouse over */
+}
+
+a:active {
+  color: darkblue;		/* selected */
+}
