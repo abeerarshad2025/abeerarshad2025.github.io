@@ -16,7 +16,15 @@ a:active {
 
 /*******************************************************************/
 
+div#header {
+  text-align: center;
+}
+
 h1.title {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 36pt;
+}
+
+h2 a {
+  font-size: 24pt;
 }
