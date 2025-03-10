@@ -13,3 +13,10 @@ a:hover {
 a:active {
   color: darkblue;		/* selected */
 }
+
+/*******************************************************************/
+
+h1 .title {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 20pt;
+}
