@@ -1,17 +1,18 @@
 a:link {
-  color: blue;			/* unvisited */
+  color: #002FA7;		/* unvisited */
 }
 
 a:visited {
-  color: blue;			/* visited */
+  color: #002FA7;		/* visited */
 }
 
 a:hover {
+  color: blue;			/* selected */
   text-decoration: none;	/* mouse over */
 }
 
 a:active {
-  color: darkblue;		/* selected */
+  color: #002FA7;		/* selected */
 }
 
 /*******************************************************************/
