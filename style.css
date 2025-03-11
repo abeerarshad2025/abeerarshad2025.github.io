@@ -28,3 +28,8 @@ h1.title {
 h2 a {
   font-size: 24pt;
 }
+
+p.caption {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 10pt;
+}
